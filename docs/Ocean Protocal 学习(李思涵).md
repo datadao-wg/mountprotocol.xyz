@@ -44,7 +44,7 @@ Ocean有一个 "计算到数据 "（compute-to-data）的功能，数据科学�
 
 在Ocean中有两种token，Ocean token和数据token
 
-**ocean token**：是Ocean协议的**治理token**，其核心功能有：1、通过质押的形式参与数据管理2、用于购买数据token3、参与DAO治理。因此，质押添加流动性和购买数据token都要用到ocean token
+**ocean token**：是Ocean协议的**治理token**，其核心功能有：1、通过质押的形式参与数据管理2、用于购买数据token、参与DAO治理。因此，质押添加流动性和购买数据token都要用到ocean token
 
 **数据token：**代表数据资产的访问权。当一个数据资产发布在交易市场时，对应的数据token也被创建。数据token是一种ERC-20token，授予持有人对特定数据集或数据流的访问权。
 
@@ -58,8 +58,6 @@ Balancer的作用：1、Balancer可以调节流动池中token的比例  2、 数
 
 ## 关于Ocean协议的SEA
 
-SEA(Ocean Service Execution Agreements) 将SLA 的概念带入区块链。SEA不仅可以利用合法的法律协议，还能够增加数学安全性(加密、签名、哈希、加密证明等)和自动化。SEA是以下服务的基础：去中心化访问控制、冲突解决、服务消费来源、网络激励。SEA由DID，
-
-*serviceAgreementId*（引用于发布者和消费者之间的一个单独的协议）,*serviceDefinitionId* （引用于消费者希望使用的服务），*templateId*(引用于一个源自独特的服务协议的服务协议模板)组成。
+SEA(Ocean Service Execution Agreements) 将SLA 的概念带入区块链。SEA不仅可以利用合法的法律协议，还能够增加数学安全性(加密、签名、哈希、加密证明等)和自动化。SEA是以下服务的基础：去中心化访问控制、冲突解决、服务消费来源、网络激励。SEA由DID、serviceAgreementId（引用于发布者和消费者之间的一个单独的协议）,serviceDefinitionId （引用于消费者希望使用的服务），templateId(引用于一个源自独特的服务协议的服务协议模板)组成。
 
 但即使SEA功能强大，但对于典型的数据科学家而言却非常复杂。
