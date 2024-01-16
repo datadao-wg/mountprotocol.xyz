@@ -10,7 +10,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const config = {
   title: 'Mount Protocol',
   tagline: 'Mount are cool',
-  favicon: 'img/mount.jpg',
+  favicon: 'img/mountlogo.png',
 
   // Set the production url of your site here
   url: 'https://your-docusaurus-site.example.com',
@@ -52,6 +52,8 @@ const config = {
           // Remove this to remove the "edit this page" links.
           editUrl:
             'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+          blogSidebarTitle: 'All posts',
+          blogSidebarCount: 'ALL',
         },
         theme: {
           customCss: './src/css/custom.css',
@@ -69,7 +71,7 @@ const config = {
         title: 'Mount Protocol',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/mount.jpg',
+          src: 'img/mountlogo.png',
         },
         items: [
           {
@@ -78,7 +80,7 @@ const config = {
             position: 'left',
             label: 'Tutorial',
           },
-          {to: '/blog', label: 'Blog12', position: 'left'},
+          {to: '/blog', label: 'OurBlogs', position: 'left'},
           {
             href: 'https://github.com/facebook/docusaurus',
             label: 'GitHub',
