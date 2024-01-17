@@ -9,7 +9,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Mount Protocol',
-  tagline: 'Mount are cool',
+  tagline: 'Open Finance First, Open Data Second, Open AI Third',
   favicon: 'img/mountlogo.png',
 
   // Set the production url of your site here
