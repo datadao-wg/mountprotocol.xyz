@@ -81,11 +81,11 @@ const config = {
             label: 'Docs',
           },
           {to: '/blog', label: 'OurBlogs', position: 'left'},
-          {
-            href: 'https://github.com/facebook/docusaurus',
-            label: 'GitHub',
-            position: 'right',
-          },
+          // {
+          //   href: 'https://github.com/facebook/docusaurus',
+          //   label: 'GitHub',
+          //   position: 'right',
+          // },
         ],
       },
       footer: {
@@ -104,16 +104,28 @@ const config = {
             title: 'Contributors',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'Alias-lsh',
+                href: 'https://github.com/Alias-lsh',
               },
               {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                label: 'Brownjy',
+                href: 'https://github.com/Brownjy',
               },
               {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                label: 'xiaomigiao',
+                href: 'https://github.com/xiaomigiao',
+              },
+              {
+                label: 'Eailhang',
+                href: 'https://github.com/Eailhang',
+              },
+              {
+                label: 'taoshengshi',
+                href: 'https://github.com/taoshengshi',
+              },
+              {
+                label: 'wangshouh',
+                href: 'https://github.com/wangshouh',
               },
             ],
           },
