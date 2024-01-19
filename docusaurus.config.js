@@ -127,6 +127,14 @@ const config = {
                 label: 'wangshouh',
                 href: 'https://github.com/wangshouh',
               },
+              {
+                label: 'umi1028',
+                href: 'https://github.com/umi1028',
+              },
+              {
+                label: 'ekatsi',
+                href: 'https://github.com/ekatsi',
+              },
             ],
           },
           {
