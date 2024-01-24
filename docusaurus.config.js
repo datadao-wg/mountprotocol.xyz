@@ -88,6 +88,8 @@ const config = {
           // },
         ],
       },
+
+
       footer: {
         style: 'dark',
         links: [
