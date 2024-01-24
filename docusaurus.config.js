@@ -10,7 +10,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const config = {
   title: 'Mount Protocol',
   tagline: 'Open Finance First, Open Data Second, Open AI Third',
-  favicon: 'img/NewLogo.png',
+  favicon: 'img/mountprotocol.png',
 
   // Set the production url of your site here
   url: 'https://your-docusaurus-site.example.com',
@@ -71,7 +71,7 @@ const config = {
         title: 'Mount Protocol',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/NewLogo.png',
+          src: 'img/mountprotocol.png',
         },
         items: [
           {
