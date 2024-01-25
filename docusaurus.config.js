@@ -9,7 +9,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Mount Protocol',
-  tagline: 'Open Finance First, Open Data Second, Open AI Third',
+  tagline: 'An Asset Creation,Issuance and Governance Protocol for Data DAO',
   favicon: 'img/NewLogo.png',
 
   // Set the production url of your site here
