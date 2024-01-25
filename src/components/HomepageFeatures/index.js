@@ -8,7 +8,8 @@ const FeatureList = [
     Svg: require('@site/static/img/logo3.svg').default,
     description: (
       <>
-          Finance first Data DAO Asset Creation and Issuance Protocol
+          An Filecoin protocol in order to build the world's first financial-first protocol for data organization, asset creation, and issuance.
+          Driving open data with open finance to promote the democratization of AI.
       </>
     ),
   },
@@ -17,7 +18,8 @@ const FeatureList = [
     Svg: require('@site/static/img/logo1.svg').default,
     description: (
       <>
-        Free storage,auction,vote and inspirit.
+          1、Funds would only payout after proof is provided that the data has successfully been stored on Filecoin. 2、DataDAO can specify the storage duration.
+          3、Implementing a unique system that links data storage with usage rights, providing new revenue streams for digital assets.
       </>
     ),
   },
