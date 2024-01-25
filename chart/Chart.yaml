@@ -1,0 +1,12 @@
+apiVersion: v2
+name: mountprotocol-xyz
+description: Install mountprotocol.xyz to provide mountprotocol web page.
+version: 1.0.0
+kubeVersion: < 1.28.0-0
+home: https://mountprotocol.xyz/
+keywords:
+  - mountprotocol-xyz
+sources:
+  - https://github.com/datadaostack/mountprotocol.xyz
+maintainers:
+  - name: mountprotocol team

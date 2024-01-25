@@ -1,0 +1,14 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: mountprotocol-xyz-service
+  labels:
+    apptype: mountprotocol-xyz
+spec:
+  type: ClusterIP
+  selector:
+    app: mountprotocol-xyz
+  ports:
+    - protocol: TCP
+      port: 80
+      targetPort: 80
