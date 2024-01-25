@@ -92,6 +92,7 @@ const config = {
 
       footer: {
         style: 'dark',
+        
         links: [
           {
             title: 'Docs',
@@ -108,6 +109,8 @@ const config = {
               {
                 label: 'Alias-lsh',
                 href: 'https://github.com/Alias-lsh',
+
+
               },
               {
                 label: 'Brownjy',
