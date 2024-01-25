@@ -5,7 +5,7 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'What is Mount Protocol',
-    Svg: require('@site/static/img/logo3.svg').default,
+    Svg: require('@site/static/img/what.svg').default,
     description: (
       <>
           An Filecoin protocol in order to build the world's first financial-first protocol for data organization, asset creation, and issuance.
@@ -15,7 +15,7 @@ const FeatureList = [
   },
   {
     title: 'Why Mount Protocol',
-    Svg: require('@site/static/img/logo1.svg').default,
+    Svg: require('@site/static/img/why.svg').default,
     description: (
       <>
           1、Funds would only payout after proof is provided that the data has successfully been stored on Filecoin. 2、DataDAO can specify the storage duration.
@@ -25,7 +25,7 @@ const FeatureList = [
   },
   {
     title: 'Join us',
-    Svg: require('@site/static/img/logo2.svg').default,
+    Svg: require('@site/static/img/true.svg').default,
     description: (
       <>
         Come and join us!
